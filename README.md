@@ -1,10 +1,15 @@
-Group Members :
-   1)Rabiha Arshad
-   2)Ayesha Muqeet
+Group Members
 
-RollNo:
-   100056
-   112649
+Rabiha Arshad
 
-Project Title:
-"QR Code Generater ,vsrify ,Scan show its Output and also Show is the image is blur or not "
+Ayesha Muqeet
+
+Roll Numbers
+
+100056
+
+112649
+
+Project Title
+
+“QR Code Generator, Verification, Scanner, Output Display, and Image Blur Detection System”
